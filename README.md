@@ -1,4 +1,4 @@
-# Assignment #3: Distance Converter
+# Distance Converter
 
 Build a Python program that accepts distance measurements, performs conversions, and displays the results.
 
