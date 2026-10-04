@@ -110,26 +110,11 @@ compare: development
 5. Review the listed changes.
 6. Click **Create pull request**.
 7. Enter a short title describing the completed assignment.
-8. Add a brief description if needed.
+8. Add a brief description.
 9. Click **Create pull request**.
 
 ---
 
-## 7. Review and Merge the Pull Request
+## 7. Submit the Pull Request
 
-Before merging:
-
-1. Review the **Files changed** tab.
-2. Make sure only the intended assignment files were changed.
-3. Confirm that the program is complete and runs correctly.
-4. Return to the pull request conversation.
-5. Click **Merge pull request**.
-6. Click **Confirm merge**.
-
-Your completed work should now be on the `main` branch.
-
----
-
-## 8. Submit the Assignment
-
-Submit the URL of your GitHub repository in Canvas.
+Submit the URL of your GitHub Pull Request to the Canvas assignment.
