@@ -20,10 +20,13 @@ Example:
 smith-cpw102-distance-converter
 ```
 
-6. Set the repository visibility to **Public**.
+6. Set the repository visibility to **Private**.
 7. Click **Create repository**.
-
-You should now be viewing your own copy of the assignment repository.
+8. In your new repository, go to Settings.
+9. Select Collaborators.
+10. Click Add people.
+11. Search for and add `@rachelkingCPTC` as a collaborator.
+12. Make sure the invitation is sent before submitting the assignment.
 
 ---
 

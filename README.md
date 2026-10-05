@@ -92,7 +92,7 @@ You should **not** use:
 - lists or dictionaries
 - imported libraries
 
-These concepts are introduced later.
+These concepts are introduced later in the course.
 
 ## Sample Output
 
